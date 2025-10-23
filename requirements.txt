@@ -1,0 +1,16 @@
+# Framework ML i modele
+torch==2.9.0
+torchvision==0.24.0
+ultralytics==8.3.220
+
+# Narzędzia do przetwarzania obrazu i danych
+opencv-python-headless==4.12.0.88
+pandas==2.3.3
+numpy==2.3.4
+matplotlib==3.10.7
+scikit-learn==1.7.2
+
+# Narzędzia deweloperskie i analityczne
+jupyterlab==4.4.10
+pylint==4.0.2
+black==25.9.0
